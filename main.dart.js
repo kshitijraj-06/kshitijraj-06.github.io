@@ -26437,7 +26437,7 @@ _.c=_.a=null},
 aql:function aql(a){this.a=a},
 Ij:function Ij(){},
 aDS(){var s="Mobile App",r="Backend (Flask)"
-return new A.Ol(A.a([new A.kH("Pill Scheduler",s,"images/logo_pill.png","https://github.com/kshitijraj-06/Pill_Scheduler"),new A.kH("Spring Valley",s,"images/logo_spv.png","https://github.com/kshitijraj-06/spvalley_frontend"),new A.kH("Spring Valley Backend",r,"images/bg.jpg","https://github.com/kshitijraj-06/spvalley_backend"),new A.kH("ToDo - List Backend",r,"images/logo_todo.png","https://github.com/kshitijraj-06/todo_backend"),new A.kH("Weather App","RESTful APIs","images/logo_weather.png","https://github.com/kshitijraj-06/weather-app")],t.vL),null)},
+return new A.Ol(A.a([new A.kH("Pill Scheduler",s,"assets/images/logo_pill.png","https://github.com/kshitijraj-06/Pill_Scheduler"),new A.kH("Spring Valley",s,"assets/images/logo_spv.png","https://github.com/kshitijraj-06/spvalley_frontend"),new A.kH("Spring Valley Backend",r,"assets/images/bg.jpg","https://github.com/kshitijraj-06/spvalley_backend"),new A.kH("ToDo - List Backend",r,"assets/images/logo_todo.png","https://github.com/kshitijraj-06/todo_backend"),new A.kH("Weather App","RESTful APIs","assets/images/logo_weather.png","https://github.com/kshitijraj-06/weather-app")],t.vL),null)},
 Ol:function Ol(a,b){this.c=a
 this.a=b},
 afa:function afa(){},
@@ -89125,7 +89125,7 @@ ah(){return new A.UQ(null,null)}}
 A.UQ.prototype={
 aA(){var s,r=this,q=null
 r.aV()
-s=A.a(["images/flutter_lottie.json","images/firebase_lottie.json","images/android_lottie.json","images/python_lottie.json"],t.s)
+s=A.a(["assets/images/flutter_lottie.json","assets/images/firebase_lottie.json","assets/images/android_lottie.json","assets/images/python_lottie.json"],t.s)
 r.e!==$&&A.aS()
 r.e=s
 s=A.c9(q,B.aX,q,q,r)
@@ -89313,7 +89313,7 @@ P(a){var s=this,r=null,q=A.eZ(r,new A.bP(B.h0,A.bl("KR",r,r,r,r,A.Y(a).p1.e,r,r)
 q=A.a0p(A.a([p,o,n,A.Ab(r,r,A.pY(m.d?B.hm:B.hl,r,r),r,r,m.c,r,r,r),new A.bP(B.h_,A.NL(B.io,new A.anI(),A.NM(r,r,B.k,r,r,r,r,r,r,r,r,r,B.ev,r,new A.cJ(A.eD(4),B.q),B.e4,r,r,r,r)),r)],l),!0,q)
 m=s.x
 m===$&&A.b()
-return A.agQ(q,A.tt(A.aiA(new A.dN(m,!1,A.eX(A.a([A.bl("Get in Touch",r,r,r,r,A.Y(a).p1.e,r,r),B.l2,A.bl("Feel free to reach out via email or connect with me on my social media profiles!",r,r,r,r,A.Y(a).p1.y,B.ff,r),B.Se,s.a5U(),B.ic,A.jD(A.a([B.ic,s.Dz("your.email@example.com",B.It,"Email"),B.ib,s.Dz("+91-1234567890",B.Iy,"Phone"),B.ib,s.Dz("Bhubaneswar, India",B.Iv,"Location")],l),B.a3,B.c5,B.a_),B.ic,A.jD(A.a([A.eZ(r,A.a8B("images/linkedin.png",r,r,19,r),B.X,!1,r,r,r,r,r,r,r,r,r,r,r,r,r,new A.anJ(),r,r,r,r,r,r),B.ib,s.N9(B.Is,"https://github.com/kshitijraj-06"),B.ib,s.N9(B.Ir,"https://instagram.com/ig_kshitij06")],l),B.a3,B.c5,B.a_),A.d9(r,30,r),new A.pM(r)],l),B.a3,B.c5,B.a_),r)),r,r))},
+return A.agQ(q,A.tt(A.aiA(new A.dN(m,!1,A.eX(A.a([A.bl("Get in Touch",r,r,r,r,A.Y(a).p1.e,r,r),B.l2,A.bl("Feel free to reach out via email or connect with me on my social media profiles!",r,r,r,r,A.Y(a).p1.y,B.ff,r),B.Se,s.a5U(),B.ic,A.jD(A.a([B.ic,s.Dz("your.email@example.com",B.It,"Email"),B.ib,s.Dz("+91-1234567890",B.Iy,"Phone"),B.ib,s.Dz("Bhubaneswar, India",B.Iv,"Location")],l),B.a3,B.c5,B.a_),B.ic,A.jD(A.a([A.eZ(r,A.a8B("assets/images/linkedin.png",r,r,19,r),B.X,!1,r,r,r,r,r,r,r,r,r,r,r,r,r,new A.anJ(),r,r,r,r,r,r),B.ib,s.N9(B.Is,"https://github.com/kshitijraj-06"),B.ib,s.N9(B.Ir,"https://instagram.com/ig_kshitijraj")],l),B.a3,B.c5,B.a_),A.d9(r,30,r),new A.pM(r)],l),B.a3,B.c5,B.a_),r)),r,r))},
 Dz(a,b,c){var s,r,q=null,p=A.pY(b,q,30),o=this.c
 o.toString
 o=A.bl(c,q,q,q,q,A.Y(o).p1.Q,q,q)
@@ -89440,8 +89440,8 @@ return A.R(A.mH(A.dj(a,0,null),B.Jl,null),$async$qq)
 case 2:if(!c)throw A.e("Could not open "+a)
 return A.N(null,r)}})
 return A.O($async$qq,r)},
-a8Y(){var s=null,r=A.bl("Let's Connect",s,s,s,s,A.fH().$3$color$fontSize$fontWeight(B.k,28,B.bi),s,s),q=A.bl("I'm Available for Freelancing",s,s,s,s,A.fH().$2$color$fontSize(B.k,16),s,s),p=A.fH().$3$color$fontSize$fontWeight(B.k,28,B.du),o=t.p,n=A.jD(A.a([A.eZ(s,A.a8B("images/linkedin.png",B.k,20,s,20),B.X,!1,s,s,s,s,s,s,s,s,s,s,s,s,s,new A.a5Y(this),s,s,s,s,s,s),B.zQ,A.eZ(s,A.a8B("images/telegram.png",B.k,20,s,20),B.X,!1,s,s,s,s,s,s,s,s,s,s,s,s,s,new A.a5Z(this),s,s,s,s,s,s),B.zQ,A.eZ(s,A.a8B("images/mail.png",B.k,20,s,20),B.X,!1,s,s,s,s,s,s,s,s,s,s,s,s,s,new A.a6_(this),s,s,s,s,s,s)],o),B.a3,B.c5,B.a_),m=A.bl("\xa9 2025 Built by Kshitij Ranjan, Designed by Julius Guevarra",s,s,s,s,A.fH().$1$color(B.k),B.ff,s),l=A.bl("Built with",s,s,s,s,A.fH().$1$color(B.k),s,s)
-return A.je(s,A.eX(A.a([r,B.l3,q,B.l3,new A.xM("Stay in Touch",p,B.l,B.k,!0,250,60,new A.a60(),B.Xe,10,s),B.Sf,n,B.l3,m,B.zR,A.ayP(B.AB,A.a([l,new A.Qy(24,24,new A.DA("images/flutter.svg",s,s,s,s),s,s),A.bl("with",s,s,s,s,A.fH().$1$color(B.k),s,s),B.IB],o),B.AC,0,8)],o),B.a3,B.aj,B.a_),B.B,B.l,s,s,s,s,s,s,B.Hp,s,s,1/0)},
+a8Y(){var s=null,r=A.bl("Let's Connect",s,s,s,s,A.fH().$3$color$fontSize$fontWeight(B.k,28,B.bi),s,s),q=A.bl("I'm Available for Freelancing",s,s,s,s,A.fH().$2$color$fontSize(B.k,16),s,s),p=A.fH().$3$color$fontSize$fontWeight(B.k,28,B.du),o=t.p,n=A.jD(A.a([A.eZ(s,A.a8B("assets/images/linkedin.png",B.k,20,s,20),B.X,!1,s,s,s,s,s,s,s,s,s,s,s,s,s,new A.a5Y(this),s,s,s,s,s,s),B.zQ,A.eZ(s,A.a8B("assets/images/telegram.png",B.k,20,s,20),B.X,!1,s,s,s,s,s,s,s,s,s,s,s,s,s,new A.a5Z(this),s,s,s,s,s,s),B.zQ,A.eZ(s,A.a8B("assets/images/mail.png",B.k,20,s,20),B.X,!1,s,s,s,s,s,s,s,s,s,s,s,s,s,new A.a6_(this),s,s,s,s,s,s)],o),B.a3,B.c5,B.a_),m=A.bl("\xa9 2025 Built by Kshitij Ranjan, Designed by Julius Guevarra",s,s,s,s,A.fH().$1$color(B.k),B.ff,s),l=A.bl("Built with",s,s,s,s,A.fH().$1$color(B.k),s,s)
+return A.je(s,A.eX(A.a([r,B.l3,q,B.l3,new A.xM("Stay in Touch",p,B.l,B.k,!0,250,60,new A.a60(),B.Xe,10,s),B.Sf,n,B.l3,m,B.zR,A.ayP(B.AB,A.a([l,new A.Qy(24,24,new A.DA("assets/images/flutter.svg",s,s,s,s),s,s),A.bl("with",s,s,s,s,A.fH().$1$color(B.k),s,s),B.IB],o),B.AC,0,8)],o),B.a3,B.aj,B.a_),B.B,B.l,s,s,s,s,s,s,B.Hp,s,s,1/0)},
 P(a){return this.a8Y()}}
 A.a60.prototype={
 $0(){A.eH($.aT(),"/contact",t.z)},
